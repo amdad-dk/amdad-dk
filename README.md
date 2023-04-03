@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there ! This is Mohammad Amdadul Islam 👋
 
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=amdad-dk&show_icons=true&count_private=true&theme=nightowl" />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amdad-dk&theme=nightowl" /> -->
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=amdad-dk&theme=nightowl" />
+ </div>
 <!--
 **amdad-dk/amdad-dk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
