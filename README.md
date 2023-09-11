@@ -1,21 +1,27 @@
-### Hi there ! This is Mohammad Amdadul Islam 👋
+<a href="https://github.com/amdad-dk">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<hr/>
+<a href="https://github.com/amdad-dk">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/amdad-dk">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+<hr/>
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=amdad-dk&show_icons=true&count_private=true&theme=nightowl" />
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amdad-dk&theme=nightowl" /> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=amdad-dk&theme=nightowl" />
- </div>
-<!--
-**amdad-dk/amdad-dk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/amdad-dk">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://github.com/amdad-dk">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/amdad-dk">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/amdad-dk">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
